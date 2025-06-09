@@ -34,7 +34,7 @@
 
 ## 🌐 Connect with Me
 
-- 📬 Email: kamathhitesh2003@gmail.com  
+- 📬 Email: hiteshhkamath2003@gmail.com  
 - 🔗 [LinkedIn](linkedin.com/in/hitesh-h-kamath-2ba8a9286)  
 - 💻 [GitHub](https://github.com/hiteshkamath)
 - 📷 [Instagram](https://www.instagram.com/hitesh.kamath/)
