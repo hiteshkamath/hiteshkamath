@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hitesh H Kamath!
 
 💻 **Software Engineer Trainee @ Cloudium Software**
-🎓 **MCA – Data Science**
+🎓 **MCA - Data Science**
 🚀 Passionate about **Software Development, Data Science, AI/ML & Problem Solving**
 📍 Kochi, Kerala, India
 
